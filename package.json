@@ -1,7 +1,6 @@
 {
-  "name": "Switch",
-  "version": "0.0.1",
-  "private": true,
+  "name": "react-native-advance-switch",
+  "version": "0.0.2",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -26,5 +25,21 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "React Native Switch component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguythaitinh/react-native-advance-switch.git"
+  },
+  "keywords": [
+    "React",
+    "Native"
+  ],
+  "author": "Nguyen Thai Tinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguythaitinh/react-native-advance-switch/issues"
+  },
+  "homepage": "https://github.com/nguythaitinh/react-native-advance-switch#readme"
 }
